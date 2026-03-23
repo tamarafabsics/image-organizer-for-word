@@ -1,4 +1,4 @@
-# image-organizer-for-word
+# Image organizer for word
 This Python script sorts images from a folder by their creation date and automatically inserts them into a Word document in the correct chronological order.
 
 ## Purpose
